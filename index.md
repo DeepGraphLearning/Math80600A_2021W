@@ -63,12 +63,10 @@ Due to the pandemic, the final exam and the poster presentation are cancelled.
 - <del>**Final Exam**: 30%</del>
 --->
 
-- **Homework**: TBA
-- **Presentations**: TBA
-- **Projects**: TBA
-- **Final Exam**: TBA
-
-**Homework Late policy**: TBA
+- **Homework**: 20%
+- **Presentations**: 10%
+- **Projects**: 40%
+- **Final Exam**: 30%
 
 # Staff
 
