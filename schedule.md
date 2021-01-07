@@ -7,11 +7,11 @@ schedule:
   - date: Jan.<br>7, 8
     topics:
     - name: Introduction
-      url: https://www.dropbox.com/s/dcu15br4o4fkmhj/Week1-Intro.pdf?dl=0
+      url: https://www.dropbox.com/s/hbrmctcap9ebo60/Week1-Intro.pdf?dl=0
     - name: Mathematics
-      url: https://www.dropbox.com/s/a919hpbw0hvjvwb/Week1-Maths.pdf?dl=0
+      url: https://www.dropbox.com/s/o09puw2vf59uxj5/Week1-Maths.pdf?dl=0
     - name: Machine Learning Basics
-      url: https://www.dropbox.com/s/317tjvw6hq9by58/Week1-ML.pdf?dl=0
+      url: https://www.dropbox.com/s/5ntgm9t4ykeq1b7/Week1-ML.pdf?dl=0
     readings:
       - name: Deep Learning Book
       - name: Chap. 2
