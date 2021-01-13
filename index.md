@@ -30,8 +30,8 @@ team:
   - Zoom
 - **Office hour**:
   - Jian Tang (Instructor): TBA
-  - Shengchao Liu (TA): TBA
-  - Louis-Pascal Xhonneux (TA): TBA
+  - Shengchao Liu (TA): 10-11 AM EST, Friday
+  - Louis-Pascal Xhonneux (TA): 10-11 AM EST, Friday
 
 [Jian Tang]: https://jian-tang.com
 [Quebecor]: https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/quebecor.html
@@ -54,18 +54,12 @@ team:
 
 # Evaluation
 
-<!-----
-Due to the pandemic, the final exam and the poster presentation are cancelled.
-
-- **Homework**: <del>20%</del> 60% = 3 * 20%
-- **Presentations**: 10%
-- **Projects**: 30% = proposal 5% + <del>poster 10%</del> + report 25%
-- <del>**Final Exam**: 30%</del>
---->
-
 - **Homework**: 20%
-- **Presentations**: 10%
-- **Projects**: 40%
+- **Class Presentations**: 10%
+- **Course Projects**: 40%
+    - **Research Proposal**: 5%
+    - **Poster**: 10%
+    - **Report**: 25%
 - **Final Exam**: 30%
 
 # Staff
