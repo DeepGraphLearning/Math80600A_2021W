@@ -23,7 +23,7 @@ schedule:
   - date: Jan.<br>14, 15
     topics:
     - name: Feedforward Neural Networks & Optimization Tricks
-      url:
+      url: https://www.dropbox.com/s/zv4920r75ek7u4u/Week2-FFN%26Regularization.pdf?dl=0
     readings:
       - name: Deep Learning Book
       - name: Chap. 6
