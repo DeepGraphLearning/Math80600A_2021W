@@ -34,8 +34,10 @@ schedule:
         url: http://www.deeplearningbook.org/contents/optimization.html
   - date: Jan.<br>21, 22
     topics:
-      - name: PyTorch
-        url:
+      - name: PyTorch part 1
+        url: https://www.dropbox.com/s/xpd4fjisk3n08vx/Deep%20Learning%20Frameworks%20part%201.pdf?dl=0
+      - name: PyTorch Part 2
+        url: https://www.dropbox.com/s/2mzbdnfgah9yimw/Deep%20Learning%20Frameworks%20part%202.pdf?dl=0
     readings:
       - name: Python Numpy Tutorial
         url: http://cs231n.github.io/python-numpy-tutorial/
@@ -47,8 +49,6 @@ schedule:
       - name: Instruction
         url: 
       - name: Colab
-        url: 
-      - name: PDF version
         url: 
   - date: Jan.<br>28, 29
     topics:
@@ -146,8 +146,6 @@ schedule:
       - name: Instruction
         url: 
       - name: Colab
-        url: 
-      - name: PDF version
         url: 
   - date: Mar.<br>25, 26
     topics:
