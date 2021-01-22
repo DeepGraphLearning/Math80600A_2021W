@@ -28,13 +28,15 @@ def load_data():
 class MultiLayerPercptron(nn.Module):
     def __init__(self):
         super(MultiLayerPercptron, self).__init__()
-        self.fc1 = nn.Linear(4, 100)
-        self.fc2 = nn.Linear(100, 3)
+        self.mlp_layer = nn.Sequential(
+            nn.Linear(4, 100),
+            nn.ReLU(),
+            nn.Linear(100, 3)
+        )
         return
 
     def forward(self, x):
-        x = self.fc1(x)
-        x = self.fc2(x)
+        x = self.mlp_layer(x)
         return x
 
 
@@ -64,11 +66,12 @@ if __name__ == '__main__':
     ########## Set-up model ##########
     model = MultiLayerPercptron().to(device)
     print('model\n', model)
+    print(sum(np.prod(param.shape) for param in model.parameters()))
     print()
 
     ########## Set-up optimization method ##########
     learning_rate = 3e-2
-    optimizer = optim.SGD(model.parameters(), lr=learning_rate)
+    optimizer = optim.SGD(model.parameters(), lr=learning_rate, weight_decay=1e-5)
 
     ########## Set-up loss function ##########
     criterion = nn.CrossEntropyLoss()

@@ -46,13 +46,15 @@ class IrisDataset(data.Dataset):
 class MultiLayerPercptron(nn.Module):
     def __init__(self):
         super(MultiLayerPercptron, self).__init__()
-        self.fc1 = nn.Linear(4, 100)
-        self.fc2 = nn.Linear(100, 3)
+        self.mlp_layer = nn.Sequential(
+            nn.Linear(4, 100),
+            nn.ReLU(),
+            nn.Linear(100, 3)
+        )
         return
 
     def forward(self, x):
-        x = self.fc1(x)
-        x = self.fc2(x)
+        x = self.mlp_layer(x)
         return x
 
 
@@ -92,7 +94,7 @@ def evaluate(model, dataloader, device):
     y_test_pred = torch.cat(y_test_pred, dim=0)
 
     _, y_test_pred = torch.max(y_test_pred, 1)
-    acc = torch.sum(y_test_pred == y_test) / y_test_pred.size()[0]
+    acc = torch.true_divide(torch.sum(y_test_pred == y_test), y_test_pred.size()[0])
     print('accuracy: {}'.format(acc))
     print()
 
@@ -139,9 +141,9 @@ if __name__ == '__main__':
 
     ########## Choose optimizer ##########
     if args.optimizer == 'sgd':
-        optimizer = optim.SGD(model.parameters(), lr=args.lr)
+        optimizer = optim.SGD(model.parameters(), lr=args.lr, weight_decay=1e-5)
     elif args.optimizer == 'adam':
-        optimizer = optim.Adam(model.parameters(), lr=args.lr)
+        optimizer = optim.Adam(model.parameters(), lr=args.lr, weight_decay=1e-5)
     else:
         raise ValueError('Optimizer {} is not included.'.format(args.optimizer))
     criterion = nn.CrossEntropyLoss()

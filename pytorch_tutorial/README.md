@@ -105,13 +105,13 @@ matplotlib                3.3.2                     h06a4308_0
 
 # Content
 
-## 1 Pytorch on CPU and GPU
+## Pytorch on CPU and GPU
 
 Check if we can run Pytorch on GPU (if the cuda is available).
 
 `python example_0_GPU_test.py`
 
-## 2 Tensor Basics, Some Warm-ups
+## Tensor Basics, Some Warm-ups
 
 Basic tensor operation on an image data.
 
@@ -120,43 +120,43 @@ wget https://upload.wikimedia.org/wikipedia/en/7/7d/Lenna_%28test_image%29.png -
 python example_1_basic_tensor_operation_on_image.py.py
 ```
 
-## 3.2 Example 1, Iris Classification
+## Example 1, Iris Classification
 
 Play around with classification on [Iris dataset](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html).
 
-### 3.2.1 Step 1: Playing around with Logistic Regression Scikit-Learn on Iris
+### Step 1: Playing around with Logistic Regression Scikit-Learn on Iris
 
 Recall that Logistic Regression was first proposed for binary classification, and it can be generalized for multi-class classification by using one-vs-rest (OvR).
 Feel free to check the [Scikit-Learn API](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html).
 
 ```bash
-python sec_3.2.1_Iris_Logistic_Regression.py
+python 2.1_Iris_Logistic_Regression.py
 ```
 
-### 3.2.2 Step 2: Linear Model, trained with Gradient Descent (GD)
+### Step 2: Linear Model, trained with Gradient Descent (GD)
 
 ```bash
-python sec_3.2.2_Iris_GD.py
+python 2.2_Iris_GD.py
 ```
 
-### 3.2.3 Step 3: Multi-Layer Perceptron (MLP), trained with Gradient Descent (GD)
+### Step 3: Multi-Layer Perceptron (MLP), trained with Gradient Descent (GD)
 
 ```bash
-python sec_3.2.3_Iris_MLP.py
+python 2.3_Iris_MLP.py
 ```
 
-### 3.2.4 Step 4: Multi-Layer Perceptron (MLP), trained with Stochastic Gradient Descent (SGD)
+### Step 4: Multi-Layer Perceptron (MLP), trained with Stochastic Gradient Descent (SGD)
 
 ```bash
-python sec_3.2.4_Iris_SGD.py
+python 2.4_Iris_SGD.py
 ```
 
-### 3.2.5 Step 5: More formal version
+### Step 5: More formal version
 
 A more formal version which includes more advanced tricks/packages:
 
 ```bash
-python sec_3.2.5_Iris_complete.py \
+python 2.5_Iris_complete.py \
 --batch_size=10 \
 --lr=0.03 \
 --epochs=200 \
@@ -164,12 +164,12 @@ python sec_3.2.5_Iris_complete.py \
 --model=mlp
 ```
 
-## 3.3 Example 2, MNIST Digit Classification
+## Example 2, MNIST Digit Classification
 
 Adapted from the pytorch official github [example](https://github.com/pytorch/examples/blob/master/mnist/main.py).
 
 ```bash
-python sec_3.3_MNIST.py
+python 3_MNIST.py
 ```
 
 # Related Materials
