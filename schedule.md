@@ -47,9 +47,9 @@ schedule:
         url: https://github.com/dsgiitr/d2l-pytorch
     homeworks:
       - name: Instruction
-        url: 
+        url: https://www.dropbox.com/s/7s19xya7yck4nul/HWK1.pdf?dl=0
       - name: Colab
-        url: 
+        url: https://colab.research.google.com/drive/1FjRjNlBqPVz7SrEPvqrL10Q76NeHhvJW?usp=sharing
   - date: Jan.<br>28, 29
     topics:
       - name: Convolutional Neural Networks & Recurrent Neural Networks
