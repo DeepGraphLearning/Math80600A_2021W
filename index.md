@@ -24,14 +24,14 @@ team:
 - **Instructor**: [Jian Tang]
 - **Trimester**: Winter 2021
 - **When**:
-  - **Class 1**: Thu: 8:30 - 11:30 am
-  - **Class 2**: Fri: 3:30 - 6:30 pm
+  - **Class 1**: 8:30 - 11:30 AM EST, Thursday
+  - **Class 2**: 3:30 - 6:30 PM EST, Friday
 - **Where**:
   - Zoom
 - **Office hour**:
-  - Jian Tang (Instructor): TBA
-  - Shengchao Liu (TA): 10-11 AM EST, Friday
-  - Louis-Pascal Xhonneux (TA): 10-11 AM EST, Friday
+  - Jian Tang (Instructor): 2:00 - 3:00 PM EST, Friday
+  - Shengchao Liu (TA): 10:00 - 11:00 AM EST, Friday
+  - Louis-Pascal Xhonneux (TA): 10:00 - 11:00 AM EST, Friday
 
 [Jian Tang]: https://jian-tang.com
 [Quebecor]: https://www.hec.ca/campus/edifices/cote_sainte_catherine/1er_etage/salles_cours/quebecor.html
