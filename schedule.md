@@ -70,7 +70,7 @@ schedule:
   - date: Feb.<br>4, 5
     topics:
       - name: Natural Language Processing I
-        url: 
+        url: https://www.dropbox.com/s/bjxvre1d3w30iqj/Week5-DL4NLP-part1.pdf?dl=0
     readings:
       - name: Word2Vec
         url: https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf
