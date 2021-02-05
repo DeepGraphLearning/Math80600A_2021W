@@ -142,11 +142,6 @@ schedule:
         url: https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf
       - name: LargeVis
         url: https://arxiv.org/abs/1602.00370
-    homeworks:
-      - name: Instruction
-        url: 
-      - name: Colab
-        url: 
   - date: Mar.<br>25, 26
     topics:
       - name: Graph Representation Learning II
