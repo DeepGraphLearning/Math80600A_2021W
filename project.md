@@ -24,11 +24,20 @@ The final report should be submitted in pdf format.
 
 ## Schedule
 
+- **Proposal due**: Feb. 28th
+- **Poster due**:
+    - J1: Apr. 8th
+    - J2: Apr. 16th
+- **Final report due**: Apr. 25th
+    - Note: 3 points will be deducted for late submission.
+
+<!--
+
 - **Group formation due**: TBA
 - **Proposal due**: TBA
 - **Final report due**: TBA
 
-<!--
+
 - **Group formation due**: 1 / 30
 - **Proposal due**: 3 / 1
 - **Final report due**: 4 / 30
