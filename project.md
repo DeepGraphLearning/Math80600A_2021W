@@ -8,7 +8,7 @@ permalink: /project
 
 The goal of the course project is to apply deep learning techniques learned in class (it is fine if you use the techniques not introduced in class) to solve real-world problems or develop new deep learning techniques. You are expected to work in teams and learn to collaborate with your teammates. Each group should make a poster in the final class and participate in the poster session to present your results and communicate with other teams. A report should also be submitted at the end of the course.
 
-[Full instructions](https://www.dropbox.com/s/viht5y6xphge8jg/Instructions%20on%20Course%20Projects.pdf?dl=0) can be downloaded here.
+[Full instructions](https://d1b10bmlvqabco.cloudfront.net/paste/jcs78pr599z90/b722915f191e5045b59e6fa9bafcff79733608fe163070e81045fbe78f60d30a/Instructions_on_Course_Projects_Deep_Learning.pdf) can be downloaded here.
 [GCP tutorial](https://www.dropbox.com/s/jeezq3zkl1yfbak/GCP%20tutorial.pdf?dl=0) can be found here.
 
 
@@ -30,22 +30,6 @@ The final report should be submitted in pdf format.
     - J2: Apr. 16th
 - **Final report due**: Apr. 25th
     - Note: 3 points will be deducted for late submission.
-
-<!--
-
-- **Group formation due**: TBA
-- **Proposal due**: TBA
-- **Final report due**: TBA
-
-
-- **Group formation due**: 1 / 30
-- **Proposal due**: 3 / 1
-- **Final report due**: 4 / 30
-
-- **Poster presentation**:
-  - **Class 1**: 4 / 9
-  - **Class 2**: 4 / 14
--->
 
 ## Groups for Course Projects
 
