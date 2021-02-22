@@ -13,7 +13,7 @@ team:
     title: Teaching Assistant
     image: assets/images/shengchao_liu.jpeg
   - name: Louis-Pascal Xhonneux
-    url: 
+    url: https://sites.google.com/a/mila.quebec/louis-pascal-xhonneux/home
     title: Teaching Assistant
     image: assets/images/louis_pascal_xhonneux.jpeg
 ---

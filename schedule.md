@@ -95,9 +95,9 @@ schedule:
     topics: Q & A for Projects
     homeworks:
       - name: Instruction
-        url: 
+        url: https://www.dropbox.com/s/fag21gjufa6i8z1/HW2.pdf?dl=0
       - name: Kaggle
-        url:
+        url: https://www.kaggle.com/c/math80600aw21
   - date: Mar.<br>4, 5
     topics:
       - name: Natural Language Processing III
