@@ -95,13 +95,13 @@ schedule:
     topics: Q & A for Projects
     homeworks:
       - name: Instruction
-        url: https://www.dropbox.com/s/fag21gjufa6i8z1/HW2.pdf?dl=0
+        url: https://www.dropbox.com/s/j2w4cpq14jypkbe/HW2.pdf?dl=0
       - name: Kaggle
         url: https://www.kaggle.com/c/math80600aw21
   - date: Mar.<br>4, 5
     topics:
       - name: Natural Language Processing III
-        url: 
+        url: https://www.dropbox.com/s/366364m5gmu6gkd/Week7-DL4NLP-part2.pdf?dl=0
     readings:
       - name: Attention Seq2Seq
         url: https://arxiv.org/abs/1409.0473
@@ -117,7 +117,7 @@ schedule:
   - date: Mar.<br>11, 12
     topics:
       - name: Natural Language Processing IV
-        url: 
+        url: https://www.dropbox.com/s/gcd1bu7bxd5gigm/Week8-DL4NLP-part3.pptx?dl=0
     readings:
       - name: BERT
         url: https://arxiv.org/abs/1810.04805
