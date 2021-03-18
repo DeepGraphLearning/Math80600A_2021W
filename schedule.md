@@ -129,7 +129,7 @@ schedule:
   - date: Mar.<br>18, 19
     topics:
       - name: Graph Representation Learning I
-        url: 
+        url: https://www.dropbox.com/s/3e09x5i9wyn8q3c/Week9-Graph-part1.pdf?dl=0
     readings:
       - name: DeepWalk
         url: https://arxiv.org/abs/1403.6652
