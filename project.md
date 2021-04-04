@@ -18,6 +18,8 @@ The goal of the course project is to apply deep learning techniques learned in c
 
 - The suggested poster size will be updated later. Some [examples of posters](https://postersession.ai/) in conferences are available here.
 
+- You will do the poster presentation on [Gather Town](https://gather.town/i/wOdr7PsM), and you can find the instruction [here](https://www.dropbox.com/s/xq6xofcww1hn4oi/GatherTown%20Tutorial.pdf?dl=0).
+
 - The final report should give a comprehensive description of your projects. It should contain a section about the motivation and definition of your selected topics, a section summarizing the related work, a section on the techniques you used for solving the problem, an empirical section presenting your data sets and results with detailed analysis, and a conclusion section. The report should be at most 8 pages (not including references) using [the NeurIPS format](https://nips.cc/Conferences/2015/PaperInformation/StyleFiles).
 The final report should be submitted in pdf format.
 
